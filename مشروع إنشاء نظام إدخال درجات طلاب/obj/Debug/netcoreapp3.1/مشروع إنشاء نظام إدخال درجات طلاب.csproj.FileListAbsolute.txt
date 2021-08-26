@@ -1,0 +1,13 @@
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\bin\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.exe
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\bin\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.deps.json
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\bin\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.runtimeconfig.json
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\bin\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.runtimeconfig.dev.json
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\bin\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.dll
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\bin\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.pdb
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\obj\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.csprojAssemblyReference.cache
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\obj\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.AssemblyInfoInputs.cache
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\obj\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.AssemblyInfo.cs
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\obj\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.csproj.CoreCompileInputs.cache
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\obj\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.dll
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\obj\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.pdb
+C:\Users\ال مداوي\source\repos\مشروع إنشاء نظام إدخال درجات طلاب\مشروع إنشاء نظام إدخال درجات طلاب\obj\Debug\netcoreapp3.1\مشروع إنشاء نظام إدخال درجات طلاب.genruntimeconfig.cache

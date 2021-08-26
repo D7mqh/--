@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "مشروع إنشاء نظام إدخال درجات طلاب/1.0.0": {
+        "runtime": {
+          "مشروع إنشاء نظام إدخال درجات طلاب.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "مشروع إنشاء نظام إدخال درجات طلاب/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
